@@ -30630,6 +30630,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Door
       objectReference: {fileID: 0}
+    - target: {fileID: 5741812548989481053, guid: 3edc889120fd6264c926ef874ee781b6,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5741812548989481054, guid: 3edc889120fd6264c926ef874ee781b6,
         type: 3}
       propertyPath: m_RootOrder
