@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/CorgiEngine/Demos/Retro/RetroCopter.unity
+    guid: 9fe3f55d8fbc69e498173731635e42f5
+  - enabled: 1
     path: Assets/Projet K2/Level/Level.1.unity
     guid: 55b370e6f95f9b4448568eddcf4305ea
   - enabled: 1

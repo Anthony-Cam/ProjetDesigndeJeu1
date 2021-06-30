@@ -7302,7 +7302,7 @@ MonoBehaviour:
   InventoryType: 0
   TargetTransform: {fileID: 0}
   Persistent: 1
-  ResetThisInventorySaveOnStart: 0
+  ResetThisInventorySaveOnStart: 1
 --- !u!4 &801302917
 Transform:
   m_ObjectHideFlags: 0
@@ -7370,7 +7370,7 @@ MonoBehaviour:
   InventoryType: 1
   TargetTransform: {fileID: 0}
   Persistent: 1
-  ResetThisInventorySaveOnStart: 0
+  ResetThisInventorySaveOnStart: 1
 --- !u!4 &841542542
 Transform:
   m_ObjectHideFlags: 0
