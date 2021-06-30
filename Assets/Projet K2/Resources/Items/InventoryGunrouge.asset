@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16f005fbcfc61684c82bf819bce9d63b, type: 3}
   m_Name: InventoryGunrouge
   m_EditorClassIdentifier: 
-  ItemID: InventoryMachineGun
+  ItemID: InventoryGunrouge
   TargetInventoryName: MainInventory
   Usable: 0
   Consumable: 1
