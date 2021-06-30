@@ -233,4 +233,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Projet K2/Level/Level.6.unity
     guid: 6d2428b838686d7439cd7b3d9d83b96c
+  - enabled: 1
+    path: Assets/Projet K2/Level/Level.fin.unity
+    guid: 029ff2524d081cb40b52340dd4a4ce5f
   m_configObjects: {}
